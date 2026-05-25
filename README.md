@@ -34,7 +34,8 @@ to prepaid failures and received no resolution.
 - `visual3_doom_loop.png` — Six step escalation from payment failure to CoD dependency
 
 ## Tools Used
-Python · google-play-scraper · pandas · datetime
+Python · google-play-scraper · pandas · ClaudeAI 
+Used claude extensively to write efficient code and logic and creating visualization.
 
 ## Author
 Vishal Yadav | BS Data Science · IIT Madras
