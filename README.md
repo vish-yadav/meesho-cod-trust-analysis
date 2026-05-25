@@ -35,7 +35,7 @@ to prepaid failures and received no resolution.
 
 ## Tools Used
 Python · google-play-scraper · pandas · ClaudeAI 
-Used claude extensively to write efficient code and logic and creating visualization.
+[Used claude extensively to write efficient code and logic and creating visualization.]
 
 ## Author
 Vishal Yadav | BS Data Science · IIT Madras
