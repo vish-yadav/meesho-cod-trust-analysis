@@ -27,14 +27,6 @@ to prepaid failures and received no resolution.
 - **480** reviews cite fraud specifically alongside payment or refund failure
 - **20 point gap** between prepaid and CoD success rate — unchanged in 4 years
 
-## Visuals
-[Gap Chart](<img width="2126" height="1260" alt="visual1_gap_chart" src="https://github.com/user-attachments/assets/7b9b9fb7-d4a2-4a56-9d92-8c9f1b58c589" />
-)
-[Keyword Chart](<img width="2142" height="1440" alt="visual2_keywordchart" src="https://github.com/user-attachments/assets/74c1f26f-8c1e-4df3-bb19-67c8ba5d7d47" />
-)
-[Escalation](<img width="3150" height="6445" alt="visual3_chain_reaction" src="https://github.com/user-attachments/assets/12682e19-216d-4db5-a034-3d4b8874c980" />
-)
-
 ## Files
 - `meesho_scrape2.ipynb` — Full scraping and analysis code
 - `visual1_gap_chart.png` — Prepaid vs CoD success rate gap
