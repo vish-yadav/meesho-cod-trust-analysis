@@ -91,9 +91,9 @@ Three segments. Three different interventions.
 
 ![Gap Chart](visual1_gap_chart.png)
 
-[Keyword Chart](visual2_keyword_chart.png)
+![Keyword Chart](visual2_keywordchart.png)
 
-![Escalation](visual3_doom_loop.png)
+![Escalation](visual3_chain_reaction.png)
 
 ---
 
