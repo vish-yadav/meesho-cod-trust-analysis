@@ -91,12 +91,23 @@ Three segments. Three different interventions.
 
 ![Gap Chart](visual1_gap_chart.png)
 
-![Keyword Chart](visual2_keyword_chart.png)
+[Keyword Chart](visual2_keyword_chart.png)
 
 ![Escalation](visual3_doom_loop.png)
 
 ---
 
-## How to Run
-pip install google-play-scraper pandas matplotlib
-python meesho_cod_analysis.py
+## Why This Project
+
+I wanted to work on something real.
+
+Not a practice dataset. A real company, a real problem,
+and data I went and collected myself.
+
+I did not know what I would find when I started.
+That is exactly why I started.
+
+---
+
+Author:- Vishal yadav • BS Data Science • IIT           Madras.
+
